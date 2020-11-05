@@ -1,68 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Login V7</title>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-<!--===============================================================================================-->	
 	
-<!--===============================================================================================-->
-	<link rel="stylesheet" type="text/css" href="util.css">
-	<link rel="stylesheet" type="text/css" href="main.css">
 <!--===============================================================================================-->
 </head>
 <body>
 
-	
-	<div class="login-page">
-  <div class="form">
-    
-    <form class="login-form">
-      <input type="text" id="YQNum" maxlength="50" placeholder="AWB Number" />
-      <button type="button" onclick="doTrack()">LACAK</button>
-      <p class="message">Malaysia and singapore <a href="#">Tap Here</a></p>
-    </form>
-	<div id="YQContainer"></div>
-  </div>
-</div>
-
-</body>
-<div id="cp_widget_free"></div>
-<script src="https://www.cekpengiriman.com/widget/cp_widget.js"></script>
-<script type="text/javascript" src="http://www.17track.net/externalcall.js"></script>
-<script type="text/javascript">
-function doTrack() {
-    var num = document.getElementById("YQNum").value;
-    if(num===""){
-        alert("Enter your number."); 
-        return;
-    }
-    YQV5.trackSingle({
-        //Required, Specify the container ID of the carrier content.
-        YQ_ContainerId:"YQContainer",
-        //Optional, specify tracking result height, max height 800px, default is 560px.
-        YQ_Height:560,
-        //Optional, select carrier, default to auto identify.
-        YQ_Fc:"0",
-        //Optional, specify UI language, default language is automatically detected based on the browser settings.
-        YQ_Lang:"en",
-        //Required, specify the number needed to be tracked.
-        YQ_Num:num
-    });
-}
-</script>
-
-
-<div class="login-page">
-  <div class="form">
-    
-    <form class="login-form">
-      
-      <button onclick="location.href='#'" type="button"  >TRACK</button>
-	  <button >TRACK</button>
-    </form>
-	
-  </div>
+	HELLO world
 </div>
 
 </html>
