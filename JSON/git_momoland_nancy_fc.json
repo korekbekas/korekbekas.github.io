@@ -29,5 +29,38 @@
         "hpk_admob4": "webads",
         "hpk_admob5": "google adwords"
       }
-   ]
+   ],
+"More":
+  [
+    {
+      "id":1,
+      "judul":"Black Pink Video call",
+      "image":"http://indoappdev.xyz/freedom/Screenshot_20200901-220603582.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.niapp.fakecallprankblackpink"
+    },
+    {
+      "id":2,
+      "judul":"BTS Video Call",
+      "image":"https://lh3.googleusercontent.com/uCI0y-3GYO_pfqmHZf0NmrrPPraFV-nBrKxDxJfYIa9tt4KRw3JfBf34ySzTW8gUev8=s360-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.niapp.fakecallbts"
+    },
+    {
+      "id":3,
+      "judul":"VPN Japan",
+      "image":"https://lh3.googleusercontent.com/NvUVh5GjcdYjL7-C2HmOELl9ToHecCqUeCW_HYe49SYa_Vk_93_GrxS9tQ3nUU1jcWnE=s360-rw",
+      "link":"https://www.facebook.com/aliendroidstudio/posts/251155719611108"
+    },
+    {
+      "id":4,
+      "judul":"Status/Story saver All In one",
+      "image":"https://lh3.googleusercontent.com/dQD-q-9QJp7VHCPsFdeNCKkTIp6d0vCANat7SvTohVLpy4K0TGo_AX12Zo1tFp38VQ=w1440-h620-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.fbigtiktokwa.statusallinone"
+    },
+    {
+      "id":5,
+      "judul":"Duck Hunt",
+      "image":"https://lh3.googleusercontent.com/MsojmjQxTMSUu4gIkL-Y19gjcBustA1eDu1JI3xJPwE2jVNtpZGkBmKmqX1vs9J8zWfA=w1440-h620-rw",
+      "link":"https://www.facebook.com/aliendroidstudio/posts/230801341646546"
+    }
+  ]
 }
