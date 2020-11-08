@@ -1,4 +1,40 @@
 {
+"Iklan": [
+        {
+        "status": "0",
+        "link": "https://play.google.com/store/apps/details?id=",
+
+        "appid": "pub-4132761121202947",
+        "admobappid": "ca-app-pub-4132761121202947~5446647737",
+        "interid": "ca-app-pub-4132761121202947/3941994378",
+        "bannerid":"ca-app-pub-4132761121202947/1712891634",
+    
+
+        "inter_splash":"1",
+        "pengaturan_iklan":"5",
+        
+        "deskripsi_update": "Ini mah hanya contoh saja promosi iklan via json",
+        "link_update": "https://play.google.com/store/apps/details?id=com.car.trackingpostal/",
+        "version_app":1,
+        
+        "fan_inter":"287160999270192_287162075936751",
+        "fan_banner":"287160999270192_322635712389387",
+
+        "interval":3,
+        "startappid":"206058814",
+
+        
+        "hpk_admob1":"honda",
+        "hpk_admob2":"auto insurence",
+        "hpk_admob3":"google develop",
+        "hpk_admob4":"akun google developer",
+        "hpk_admob5":"farming"
+  
+
+        }
+    ],
+
+
   "More":
   [
     {
