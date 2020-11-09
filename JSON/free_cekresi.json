@@ -1,0 +1,151 @@
+{
+  "More":
+  [
+    {
+      "id":1,
+      "judul":"Black Pink Video call",
+      "image":"http://indoappdev.xyz/freedom/Screenshot_20200901-220603582.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.niapp.fakecallprankblackpink"
+    },
+    {
+      "id":2,
+      "judul":"BTS Video Call",
+      "image":"https://lh3.googleusercontent.com/uCI0y-3GYO_pfqmHZf0NmrrPPraFV-nBrKxDxJfYIa9tt4KRw3JfBf34ySzTW8gUev8=s360-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.niapp.fakecallbts"
+    },
+    {
+      "id":3,
+      "judul":"Video Call Buat Jones",
+      "image":"https://lh3.googleusercontent.com/lXO4J2kTU4cCf6pVx95pY8Vl6LIcxf_20_g4vR4xXPhkO76tgQdqpcjlhxfqMcPzeXU=s360-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.fakecallwhatsapp.fakecallfb"
+    },
+    {
+      "id":4,
+      "judul":"Status/Story saver All In one",
+      "image":"https://lh3.googleusercontent.com/dQD-q-9QJp7VHCPsFdeNCKkTIp6d0vCANat7SvTohVLpy4K0TGo_AX12Zo1tFp38VQ=w1440-h620-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.fbigtiktokwa.statusallinone"
+    },
+    {
+      "id":5,
+      "judul":"Duckhunt",
+      "image":"https://lh3.googleusercontent.com/MsojmjQxTMSUu4gIkL-Y19gjcBustA1eDu1JI3xJPwE2jVNtpZGkBmKmqX1vs9J8zWfA=w1440-h620-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.niapp.duckhun"
+    },
+	{
+      "id":6,
+      "judul":"TV INDONESIA",
+      "image":"https://lh3.googleusercontent.com/NLndJ7GQvdIFuVNQc1PUB-YLe6XVlrwSf8pz564uqY54WZ5xPDtWZEDzN_8IxxlexXk=s360-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.niapp.itv"
+    },
+	{
+      "id":7,
+      "judul":"Animals Learning For Kids",
+      "image":"https://lh3.googleusercontent.com/hNKmBbGYUktmqGZSu-HeVO0AdGof2h9Y0Yat0f8rXmOhAAVc35gwEU7xs1oxF6NOc-M=s360-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.niapp.learninganimalforkids"
+    },
+
+	{
+      "id":8,
+      "judul":"Guess picture - Road Sign",
+      "image":"https://lh3.googleusercontent.com/cxew6fBWJQlfhiuoYoflk2-lDHKVChekt4LU2VS7zc-4Q2NArcPyP3ydqK5fUVc9mk64=s360-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.niapp.roadmark"
+    },
+
+	{
+      "id":9,
+      "judul":"	Fruits vocabulary - guess picture 🤣",
+      "image":"https://lh3.googleusercontent.com/4-P1hmEzY6Ehx3EwRISjCF_jd25C0Rbopv9IjSFTOlj-A3y9TEjlPH-U-v9769CysMmV=s360-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.niapp.kitchen"
+    },
+
+	{
+      "id":10,
+      "judul":"flyingwitch game",
+      "image":"https://lh3.googleusercontent.com/Zo3y1A8B6ugvCNqH4x24s8wmGVLfH_W6wx_MDnWgWsWe3xGuydQs-CAryIYRMWzsvQ8=w1440-h620-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.niapp.flyingwitch"
+    },
+
+	{
+      "id":11,
+      "judul":"SHARE i - Transfer & bagi (ios, android, and pc)",
+      "image":"https://lh3.googleusercontent.com/Qg_UXhU9_AIthINk7KaRZonYsVBWGAPZpeme8nUegGgQBYs6k91s13Lxih1JYOXx-A=w1440-h620-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.sharet.sharei"
+    },
+
+	{
+      "id":12,
+      "judul":"Mr. Crab in danger (Rescue Mr. Crab from Pirates)",
+      "image":"https://lh3.googleusercontent.com/CErWhzA3LSGM_fD9Uxh9xmVjbGIeksGgVQ6UgfdqXo6CK-wDIXHJ16YE9kaDmWWq4Q=s360-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.indoapp.crab"
+    },
+
+	{
+      "id":13,
+      "judul":"Foods Learning For Kids",
+      "image":"https://lh3.googleusercontent.com/-qizuKuBaVTnRc9I8CegJW6bqD0AXfQkObFlAs-21orhbCXc8YFDuh735O6AIRuFjpw=s360-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.niapp.kidsfoodslearning"
+    },
+
+	{
+      "id":14,
+      "judul":"Animals vocabulary - guess picture 🤣",
+      "image":"https://lh3.googleusercontent.com/IW8d03GVOsy8sK08dwAZFO2hh5KOUWGRxKXuiLuaNVJiSZL397mJ-95uj9X0fvDI8A=s360-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.niapp.guesspictureanimal"
+    },
+
+	{
+      "id":15,
+      "judul":"Zombie shooter",
+      "image":"https://lh3.googleusercontent.com/xtWMxzgyAcMkDf_CQ29_Y4lCzjZBYDBY2qMXBZMIyjeArFVh7gelQ-djyGHIZs1XVA=s360-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.niapp.zombietsunami"}
+
+
+
+
+
+
+
+
+
+    
+ ],
+    
+    "Iklan": [
+        {
+        "status": "0",
+        "link": "https://play.google.com/store/apps/details?id=",
+
+        "url_webview": "indoappdev.xyz/a31",
+
+        "appid": "pub-4132761121202947",
+        "admobappid": "ca-app-pub-4132761121202947~6781206908",
+        "interid": "ca-app-pub-4132761121202947/1373500388",
+        "nativeid": "",
+        "bannerid": "ca-app-pub-4132761121202947/4155043564",
+        "rewardid": "",
+    
+
+        "inter_splash":"1",
+        "pengaturan_iklan":"1",
+        
+        "deskripsi_update": "COBAIN YUK TV INDONESIA - STREAMING TV ONLINE - RCTI - INDOSIAR - SCTV - GTV - KOMPAS - MNC - DLL",
+        "link_update": "https://play.google.com/store/apps/details?id=com.niapp.itv",
+        "version_app":6,
+        
+        "fan_inter":"296650694774272_296652488107426",
+        "fan_banner":"296650694774272_296651268107548",
+
+        "interval":3,
+        "startappid":"206058814",
+
+        
+        "hpk_admob1":"google",
+        "hpk_admob2":"honda",
+        "hpk_admob3":"insurance",
+        "hpk_admob4":"bmw",
+        "hpk_admob5":"youtube"
+  
+
+        }
+    ]
+}
