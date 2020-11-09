@@ -1,0 +1,80 @@
+{
+  "More":
+  [
+      {
+      "id":1,
+      "judul":"TV INDO",
+      "image":"https://lh3.googleusercontent.com/jKboXwRuXjnzSjLNdpE48XCJutD2Itgit0bJ-sZhnxpvOQe7bVDHtrd2PYh7UB-n12uS=s360-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.todayapp.streamingtvindonesia"
+     },
+     {
+      "id":2,
+      "judul":"STORY SAVER FOR WA FB IG DLL",
+      "image":"https://lh3.googleusercontent.com/eZwjdTuq-ikhr__UOZryhiifxnnINjJFZN2-VlDoofuQN_IRs6hz4IF0YTOHUMpiyMo3=s360-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.statussaver.appsimple"
+     },
+     {
+      "id":3,
+      "judul":"CEK RESI ALL IN ONE",
+      "image":"https://lh3.googleusercontent.com/hL569hM5eLIyRK4z3-4J_-krIvEVZbDFwAQP2bwvQL8b-4sMbJKxgRVD5ltT_nAhIA=s360-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.todayapp.cekresi"
+     },
+     {
+      "id":4,
+      "judul":"C.RONALDO FAKE CALL",
+      "image":"https://lh3.googleusercontent.com/WfsDXyF6UtwNmOX2o0bjHuNpBlJKaCn-eNZ7nfNf9f9QsLzSDme8PoiKELw9R2p1rMO_=s360-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.today.fakecallronaldo"
+     }
+     
+    
+
+
+
+
+
+
+
+
+    
+],
+    
+    "Iklan": [
+        {
+        "status": "0",
+        "link": "https://play.google.com/store/apps/details?id=",
+
+        "url_webview": "http://indoappdev.xyz/a3",
+
+        "appid": "pub-4132761121202947",
+        "admobappid": "ca-app-pub-4132761121202947~9772957828",
+        "interid": "ca-app-pub-4132761121202947/5074825600",
+        "nativeid": "",
+        "bannerid": "ca-app-pub-4132761121202947/7665669237",
+        "rewardid": "",
+        "openid":"ca-app-pub-4132761121202947/9674633329",
+    
+
+        "inter_splash":"1",
+        "pengaturan_iklan":"1",
+        
+        "deskripsi_update": "IKLAN - COBAIN JUGA TV INDONESIA - STREAMING TV ONLINE",
+        "link_update": "https://play.google.com/store/apps/details?id=com.todayapp.streamingtvindonesia",
+        "version_app":3,
+        
+        "fan_inter":"2636065173374458_2664523403861968",
+        "fan_banner":"2636065173374458_2664522793862029",
+
+        "interval":3,
+        "startappid":"206058814",
+
+        
+        "hpk_admob1": "google",
+        "hpk_admob2": "mobil",
+        "hpk_admob3": "google ads",
+        "hpk_admob4": "hosting",
+        "hpk_admob5": "trading"
+  
+
+        }
+    ]
+}
