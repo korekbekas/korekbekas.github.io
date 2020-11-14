@@ -3,32 +3,69 @@
        {
       "id":1,
       "judul":"Black Pink Video call",
-      "image":"http://indoappdev.xyz/freedom/Screenshot_20200901-220603582.webp",
-      "link":"https://play.google.com/store/apps/details?id=com.niapp.fakecallprankblackpink"
+      "image":"https://play-lh.googleusercontent.com/lwi5-TkCiHT25Utuzoxg3obg1he0zIBTkulcYcxkLO21NLFqRR_Qxa2Dvis4GKJfW5PG=s360-rw",
+      "link":"https://appgallery.cloud.huawei.com/uowap/index.html#/detailApp/C102942389"
     },
     {
       "id":2,
       "judul":"BTS Video Call",
       "image":"https://lh3.googleusercontent.com/uCI0y-3GYO_pfqmHZf0NmrrPPraFV-nBrKxDxJfYIa9tt4KRw3JfBf34ySzTW8gUev8=s360-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.niapp.fakecallbts"
+      "link":"https://appgallery.cloud.huawei.com/uowap/index.html#/detailApp/C102856975"
     },
     {
       "id":3,
-      "judul":"VPN Japan",
-      "image":"https://lh3.googleusercontent.com/NvUVh5GjcdYjL7-C2HmOELl9ToHecCqUeCW_HYe49SYa_Vk_93_GrxS9tQ3nUU1jcWnE=s360-rw",
-      "link":"https://www.facebook.com/aliendroidstudio/posts/251155719611108"
+      "judul":"MOMOLAND YEONWOO",
+      "image":"https://play-lh.googleusercontent.com/M49obom6MIiGpBAf-plqnbX1TarA7w-Cl7KySCjWKj2skeuArDNnYp2LUZUe9-N2uA=s360-rw",
+      "link":"https://appgallery.cloud.huawei.com/uowap/index.html#/detailApp/C103229357"
     },
     {
       "id":4,
-      "judul":"Status/Story saver All In one",
-      "image":"https://lh3.googleusercontent.com/dQD-q-9QJp7VHCPsFdeNCKkTIp6d0vCANat7SvTohVLpy4K0TGo_AX12Zo1tFp38VQ=w1440-h620-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.fbigtiktokwa.statusallinone"
+      "judul":"NANCY MOMOLAND",
+      "image":"https://play-lh.googleusercontent.com/SMaY-Ar5b15O5QXonpt2cjGpqZt0wVxMvA5fI3zmGjcwtxTn6jfaIonLLtMMQIZkUQ=s360-rw",
+      "link":"https://appgallery.cloud.huawei.com/uowap/index.html#/detailApp/C103227089"
     },
     {
       "id":5,
-      "judul":"Duck Hunt",
-      "image":"https://lh3.googleusercontent.com/MsojmjQxTMSUu4gIkL-Y19gjcBustA1eDu1JI3xJPwE2jVNtpZGkBmKmqX1vs9J8zWfA=w1440-h620-rw",
-      "link":"https://www.facebook.com/aliendroidstudio/posts/230801341646546"
+      "judul":"TIFFANY GIRL GENERATION",
+      "image":"https://play-lh.googleusercontent.com/BuVsdxMcsng2rdK-Hnvt3zBjbu9g7u7YlNVofZStrtJu__dyUaLJwwKyjfNsMv8Z6I0=s360-rw",
+      "link":"https://appgallery.cloud.huawei.com/uowap/index.html#/detailApp/C103095285"
+    },
+    {
+      "id":6,
+      "judul":"YOONA GIRL GENERATION",
+      "image":"https://play-lh.googleusercontent.com/McO0uHiDtHthW8vs5mH59UonnFys0rmi2qMDGMZDalmIOcTcjzQ-R-M0HRh8RI1NMx49=s360-rw",
+      "link":"https://appgallery.cloud.huawei.com/uowap/index.html#/detailApp/C103087419"
+    },
+    {
+      "id":7,
+      "judul":"TAE YEON GIRL GENERATION",
+      "image":"https://play-lh.googleusercontent.com/zrBoEJAj_hHBEmNOH7alEU2LfdiMfglJrNfGcsiaeGfsCc8oVafTk--0fjY1JrtTrA=s360-rw",
+      "link":"https://appgallery.cloud.huawei.com/uowap/index.html#/detailApp/C103045917"
+    },
+    {
+      "id":8,
+      "judul":"EXO KAY",
+      "image":"https://play-lh.googleusercontent.com/p8RiLUX0KkM_dhCQHGYHJk3VtL8WT503CJHw2dHayJw6GTJSMtYk66qvshtZMSU-yUU=s360-rw",
+      "link":"https://appgallery.cloud.huawei.com/uowap/index.html#/detailApp/C103003241"
+    },
+    {
+      "id":9,
+      "judul":"SANTA CLAUS",
+      "image":"https://play-lh.googleusercontent.com/RJROqhz9DvKA6ysGDKBm4UrpwZMOfkNsVRwhOhhH_vJDVtIFFF_JVQz4INFoCl9LoMB3=s360-rw",
+      "link":"https://appgallery.cloud.huawei.com/uowap/index.html#/detailApp/C102950325"
+    },
+    {
+      "id":10,
+      "judul":"Lee Min Ho 이민호",
+      "image":"https://play-lh.googleusercontent.com/tljBdb_EJ1t9WZNXE8Uaf0IWQ6BOC0NxxAJJ17cpZhdTH23TgAYJVp6eU1k7rLtZgQ0=s360-rw",
+      "link":"https://appgallery.cloud.huawei.com/uowap/index.html#/detailApp/C103264121"
     }
+	
+	
+	
+	
+	
+	
+	
    ]
 }
