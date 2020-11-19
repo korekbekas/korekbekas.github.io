@@ -1,0 +1,46 @@
+{
+  "More":
+  [
+    
+
+    
+ ],
+    
+    "Iklan": [
+        {
+        "status": "0",
+        "link": "https://play.google.com/store/apps/details?id=",
+
+        "url_webview": "indoappdev.xyz/a31",
+
+        "appid": "pub-4132761121202947",
+        "admobappid": "ca-app-pub-4132761121202947~9327028826",
+        "interid": "ca-app-pub-4132761121202947/1692931440",
+        "bannerid": "ca-app-pub-4132761121202947/3006013113",
+        "openid": "ca-app-pub-4132761121202947/6509293799",
+    
+
+        "inter_splash":"1",
+        "pengaturan_iklan":"9",
+        
+        "deskripsi_update": "COBAIN YUK TV INDONESIA - STREAMING TV ONLINE - RCTI - INDOSIAR - SCTV - GTV - KOMPAS - MNC - DLL",
+        "link_update": "https://play.google.com/store/apps/details?id=com.niapp.itv",
+        "version_app":6,
+        
+        "fan_inter":"296650694774272_296652488107426",
+        "fan_banner":"296650694774272_296651268107548",
+
+        "interval":3,
+        "startappid":"206058814",
+
+        
+        "hpk_admob1":"google",
+        "hpk_admob2":"honda",
+        "hpk_admob3":"insurance",
+        "hpk_admob4":"bmw",
+        "hpk_admob5":"youtube"
+  
+
+        }
+    ]
+}
