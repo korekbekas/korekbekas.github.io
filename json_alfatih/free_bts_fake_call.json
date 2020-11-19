@@ -1,0 +1,140 @@
+{
+  "Iklan": [
+      {
+      "status": "0",
+      "link": "https://play.google.com/store/apps/details?id=",
+      "appid": "pub-4132761121202947",
+      "admobappid": "ca-app-pub-4132761121202947~1571930999",
+      "interid": "ca-app-pub-4132761121202947/5151442721",
+      "openid": "ca-app-pub-4132761121202947/3149759010",
+      "nativeid": "ca-app-pub-4132761121202947/1188787614",
+      "bannernative": "ca-app-pub-4132761121202947/1286013003",
+      "startappid": "206058814",
+      "pengaturan_iklan": "1",
+      "deskripsi_update": "Ini mah hanya contoh saja promosi iklan via json",
+      "link_update": "https://www.google.com/",
+      "version_app": 1,
+      "fan_inter": "",
+      "fan_banner_native": "",
+      "fan_native": "",
+      "hpk_admob1": "google",
+      "hpk_admob2": "honda",
+      "hpk_admob3": "webads",
+      "hpk_admob4": "cars",
+      "hpk_admob5": "farm"
+      }
+   ],
+
+
+  "Item":
+  [
+    {
+      "id":1,
+      "name":"BTS V",
+      "image_url":"http://indoappdev.xyz/bts/bts_v1a.webp",
+      "video_url":"http://indoappdev.xyz/bts/bts_v1a.mp4",
+      "voice_url":"http://indoappdev.xyz/bts/bts_v1a.mp3"
+    },
+    {
+      "id":2,
+      "name":"BTS Jimin",
+      "image_url":"http://indoappdev.xyz/bts/bts_jimin1.webp",
+      "video_url":"http://indoappdev.xyz/bts/bts_jimin1.mp4",
+      "voice_url":"http://indoappdev.xyz/bts/bts_jimin1.mp3"
+    },
+    {
+      "id":3,
+      "name":"BTS Jung Kook",
+      "image_url":"http://indoappdev.xyz/bts/bts_jungkook1.webp",
+      "video_url":"http://indoappdev.xyz/bts/bts_jungkook1.mp4",
+      "voice_url":"http://indoappdev.xyz/bts/bts_jungkook1.mp3"
+    },
+    {
+      "id":4,
+      "name":"BTS Suga",
+      "image_url":"http://indoappdev.xyz/bts/bts_suga1.webp",
+      "video_url":"http://indoappdev.xyz/bts/bts_suga1.mp4",
+      "voice_url":"http://indoappdev.xyz/bts/bts_suga1.mp3"
+    },
+	{
+      "id":5,
+      "name":"BTS Jimin",
+      "image_url":"http://indoappdev.xyz/bts/bts_jimin2.webp",
+      "video_url":"http://indoappdev.xyz/bts/bts_jimin2.mp4",
+      "voice_url":"http://indoappdev.xyz/bts/bts_jimin2.mp3"
+    },
+	{
+      "id":6,
+	  "name":"BTS Jimin",
+      "image_url":"http://indoappdev.xyz/bts/bts_jimin3.webp",
+      "video_url":"http://indoappdev.xyz/bts/bts_jimin3.mp4",
+      "voice_url":"http://indoappdev.xyz/bts/bts_jimin3.mp3"
+    },
+	{
+      "id":7,
+	  "name":"BTS Jimin",
+      "image_url":"http://indoappdev.xyz/bts/bts_jin1.webp",
+      "video_url":"http://indoappdev.xyz/bts/bts_jin1.mp4",
+      "voice_url":"http://indoappdev.xyz/bts/bts_jin1.mp3"
+    },
+	{
+      "id":8,
+	  "name":"BTS Jung Kook",
+      "image_url":"http://indoappdev.xyz/bts/bts_jk2.webp",
+      "video_url":"http://indoappdev.xyz/bts/bts_jk2.mp4",
+      "voice_url":"http://indoappdev.xyz/bts/bts_jk2.mp3"
+    },
+	{
+      "id":9,
+	  "name":"BTS Jung Kook",
+      "image_url":"http://indoappdev.xyz/bts/bts_jk3.webp",
+      "video_url":"http://indoappdev.xyz/bts/bts_jk3.mp4",
+      "voice_url":"http://indoappdev.xyz/bts/bts_jk3.mp3"
+    },
+	{
+      "id":10,
+	  "name":"BTS Jung Kook",
+      "image_url":"http://indoappdev.xyz/bts/bts_jk4.webp",
+      "video_url":"http://indoappdev.xyz/bts/bts_jk4.mp4",
+      "voice_url":"http://indoappdev.xyz/bts/bts_jk3.mp3"
+    },
+	{
+      "id":11,
+	  "name":"BTS Jung Kook",
+      "image_url":"http://indoappdev.xyz/bts/bts_jk5.webp",
+      "video_url":"http://indoappdev.xyz/bts/bts_jk5.mp4",
+      "voice_url":"http://indoappdev.xyz/bts/bts_jk3.mp3"
+    },
+	{
+      "id":12,
+	  "name":"BTS V Taehyung",
+      "image_url":"http://indoappdev.xyz/bts/bts_v3.webp",
+      "video_url":"http://indoappdev.xyz/bts/bts_v3.mp4",
+      "voice_url":"http://indoappdev.xyz/bts/bts_jk3.mp3"
+    },
+	{
+      "id":13,
+	  "name":"BTS V Taehyung",
+      "image_url":"http://indoappdev.xyz/bts/bts_v4.webp",
+      "video_url":"http://indoappdev.xyz/bts/bts_v4.mp4",
+      "voice_url":"http://indoappdev.xyz/bts/bts_jk3.mp3"
+    },
+	{
+      "id":14,
+	  "name":"BTS V Taehyung",
+      "image_url":"http://indoappdev.xyz/bts/bts_v5.webp",
+      "video_url":"http://indoappdev.xyz/bts/bts_v5.mp4",
+      "voice_url":"http://indoappdev.xyz/bts/bts_jk3.mp3"
+    },
+	{
+      "id":15,
+	  "name":"BTS V Taehyung",
+      "image_url":"http://indoappdev.xyz/bts/bts_v6.webp",
+      "video_url":"http://indoappdev.xyz/bts/bts_v6.mp4",
+      "voice_url":"http://indoappdev.xyz/bts/bts_jk3.mp3"
+    }
+	
+    
+  ]
+
+}
