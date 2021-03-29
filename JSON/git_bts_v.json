@@ -1,15 +1,15 @@
 {
   "Iklan": [
       {
-      "status": "0",
-      "link": "https://play.google.com/store/apps/details?id=",
+      "status": "1",
+      "link": "https://play.google.com/store/apps/details?id=com.cari.bts_army_tae_hyung_kim_fake_chat_fake_call",
       "appid": "pub-4132761121202947",
-      "admobappid": "ca-app-pub-4132761121202947~4754706493",
-      "interid": "ca-app-pub-4132761121202947/4850075260",
-      "openid": "ca-app-pub-4132761121202947/4185868460",
-      "nativeid": "ca-app-pub-4132761121202947/9815461484",
-      "bannernative": "ca-app-pub-4132761121202947/8405342749",
-      "admob_reward": "ca-app-pub-4132761121202947/8811496842",
+      "admobappid": "XXca-app-pub-4132761121202947~4754706493",
+      "interid": "XXca-app-pub-4132761121202947/4850075260",
+      "openid": "XXca-app-pub-4132761121202947/4185868460",
+      "nativeid": "XXca-app-pub-4132761121202947/9815461484",
+      "bannernative": "Xca-app-pub-4132761121202947/8405342749",
+      "admob_reward": "XXca-app-pub-4132761121202947/8811496842",
       "startappid": "206058814",
       "pengaturan_iklan": "1",
       "deskripsi_update": "promosi iklan via json",
